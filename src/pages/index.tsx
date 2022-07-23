@@ -18,7 +18,7 @@ const HomePage: FC = () => (
             <Description>Self-taught Software Engineer</Description>
         </TextWrapper>
         <IconStack>
-            <Link href='https://github.com/xmlnz' blank={true}>
+            <Link href='https://github.com/xmnlz' blank={true}>
                 <GithubIcon />
             </Link>
             <Link
