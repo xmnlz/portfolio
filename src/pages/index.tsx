@@ -9,7 +9,7 @@ const HomePage: FC = () => (
     <HomeWrapper>
         <AvatarImage
             priority={true}
-            src='https://github.com/xmlnz.png?size=200'
+            src='https://github.com/xmnlz.png?size=200'
             width='200'
             height='200'
         />
